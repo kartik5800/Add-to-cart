@@ -1,0 +1,39 @@
+.header-icons i{
+    color: white;
+    font-size: 30px;
+}
+
+.btn-primary {
+    background: none;
+    border: none;
+}
+
+.btn-primary:hover{
+    background: none;
+}
+
+.content{
+    margin: 0 30px;
+}
+
+.bg-primary{
+    background: none !important;
+    padding: 0;
+}
+
+
+.logout-btn{
+
+    color: rgb(40, 40, 40);
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+ .redheart{
+    color: red !important;
+}
+
+.heart1{
+    color: red;
+} 

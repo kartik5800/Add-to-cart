@@ -1,0 +1,36 @@
+.tabledata tr td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.checkout button {
+    padding: 10px 15px;
+    margin: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: gray;
+    color: white !important;
+}
+
+.text-link {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+.wishcenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .nowish{
+    /* background-color: aqua; */
+    width: 50%;
+  
+  }
+
+  .w13{
+    width: 13%;
+  }
